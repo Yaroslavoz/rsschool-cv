@@ -1,10 +1,9 @@
 # [rsschool-cv](https://rs.school/)  
-
 ----  
 
 # **Yaroslav Ozerov**  
 
-## Contact  
+## Contact 
 ---  
 
 - __Location:__ Ukraine
@@ -12,7 +11,7 @@
 - __Email:__ yaroslavozv@gmail.com
 - __Github:__ [Yaroslavoz](https://github.com/Yaroslavoz)
 
-## Summary  
+## Summary
 ---  
 Passionate in code-learning and learn-coding  
  Problem solver  
@@ -20,7 +19,7 @@ Passionate in code-learning and learn-coding
 Hope some day to fix some bugs in the Universe code.   
 Until then explore the ingredient composition of cookies from the Dark Side.
 
-## Skills  
+## Skills
 ---  
 * JavaScript
 * React 
@@ -28,7 +27,7 @@ Until then explore the ingredient composition of cookies from the Dark Side.
 * MaterialUI
 * GraphQL
 
-## Code Example  
+## Code Example
 ---  
 ```
 const findFilms = (planetId) => {
@@ -47,18 +46,18 @@ const findFilms = (planetId) => {
  return firstResponse
 }
 ```  
-## Education  
+## Education
 ---  
 * [Skillcrucial](https://skillcrucial.com/)
 * [MDN Web Docs](https://developer.mozilla.org/ru/docs/Learn/JavaScript)
 * [Youtube](https://www.youtube.com/)
   
-## Experience  
+## Experience
 ---  
 **2019-2020** - freelance  
 **2020-2021** - Skillcrucial, front-end developer
 
-## English  
-  ---  
+## English
+---  
   __B1__
 
