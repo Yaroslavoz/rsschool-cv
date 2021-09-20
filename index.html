@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  <title>Resume</title>
+</head>
+<body>
+  <div class="root">
+    <div class="header">
+      <div class="avatar">
+        <img src="./краб.jpg" alt="avatar" width="100" height="100" >
+      </div>
+      <!-- <div class="contact"> -->
+        <h1>Yaroslav Ozerov</h1>
+        <hr>
+        <h3>Contact</h3>
+        <hr>
+          <ul>
+            <li><strong>Location:</strong> Ukraine </li>
+            <li><strong>Phone:</strong> +38 (097) 906 2535 </li>
+            <li><strong>Email:</strong> yaroslavozv@gmail.com </li>
+            <li><strong>Github:</strong> <a href="https://github.com/Yaroslavoz">Yaroslavoz</a> </li>
+          </ul>
+      <!-- </div> -->
+      
+    </div>
+    <div class="main">
+      <h3>Summary</h3>
+      <hr>
+      <p>Passionate in code-learning and learn-coding</p>
+      <ul>
+        <li>Problem solver</li>
+        <li>Great self-management and team-player</li>
+      </ul>
+      <p>Hope some day to fix some bugs in the Universe code. <br>
+        Until then explore the ingredient composition of cookies from the Dark Side.
+      </p>
+      
+      <h3>Skills</h3>
+      <hr>
+      <ul>
+        <li>Javascript</li>
+        <li>React</li>
+        <li>Redux</li>
+        <li>MaterialUI</li>
+        <li>GraphQL</li>
+      </ul> 
+      
+      <h3>Code Example</h3>
+      <hr>
+      <code>
+        function addOne() {
+          let counter = 1;
+          function inside(){
+             counter+=1;
+             return inside
+          }
+         inside.getValue = function(){
+           return counter
+         }
+          return inside
+        
+        }
+        console.log(addOne()()().getValue()); // 3
+        console.log(addOne()().getValue()); // 2
+        console.log(addOne().getValue()); // 1
+      </code>
+      
+      <h3>Education</h3>
+      <hr>
+      <ul>
+        <li>Skillcrucial</li>
+        <li>MDN Web Docs</li>
+        <li>Youtube</li>
+      </ul>
+      
+      <h3>Experience</h3>
+      <hr>
+      <p><strong>2019-2020</strong> - freelance</p>
+      <p><strong>2020-2021</strong> - Skillcrucial, front-end developer</p>
+
+      <h3>English</h3>
+      <hr>
+      <p><strong>B1(intermediate)</strong> - can read, write and speak with native speakers</p>
+      
+    </div>
+    <footer>
+      <img src="https://rs.school/images/rs_school_js.svg" 
+        alt="logo" 
+        width="50"
+        height="30"
+        >
+    </footer>
+  </div>
+  
+  
+
+</body>
+</html>
